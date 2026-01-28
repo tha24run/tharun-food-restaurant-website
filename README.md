@@ -15,7 +15,7 @@ Project Purpose
 This project was created to practice frontend development and improve UI/UX design skills.
 
 Live Demo
-(Will be added using GitHub Pages)
+https://tha24run.github.io/tharun-food-restaurant-website/
 
 Author
 Putthur Tharun Achari
